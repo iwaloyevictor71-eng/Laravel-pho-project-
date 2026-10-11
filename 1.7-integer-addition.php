@@ -1,0 +1,6 @@
+<?php
+
+$a = 20;
+$b = 10;
+
+echo $a + $b . PHP_EOL;
