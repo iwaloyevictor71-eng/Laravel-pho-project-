@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Rice",
+        "amount": 15000,
+        "category": "Food"
+    },
+    {
+        "name": "Transport",
+        "amount": 3000,
+        "category": "Travel"
+    },
+    {
+        "name": "Water",
+        "amount": 2000,
+        "category": "Bills"
+    },
+    {
+        "name": "Internet",
+        "amount": 5000,
+        "category": "Bills"
+    }
+]
